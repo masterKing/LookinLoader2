@@ -1,6 +1,6 @@
 Package: com.masterking.lookinloader2
 Name: LookinLoader2
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: Dynamically loads LookinServer.framework into iOS applications.
 Maintainer: masterKing <masterking1012@gmail.com>

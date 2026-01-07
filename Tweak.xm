@@ -61,6 +61,6 @@
             }
         }
     } else {
-        NSLog(@"当前 app 没有被选中注入 LookinServer... 请在设置中打开");
+        //NSLog(@"当前 app 没有被选中注入 LookinServer... 请在设置中打开");
     }
 }
